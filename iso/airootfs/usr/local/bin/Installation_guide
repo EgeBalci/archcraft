@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+exec midori -a 'https://egebalci.github.io/genos/install.html'
